@@ -1,1 +1,0 @@
-1. Navega a la fuente de publicación para tu sitio. For more information, see "[Configuring a publishing source for your GitHub Pages site](/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)."
